@@ -40,7 +40,7 @@ This farm works for Minecraft Java versions 1.20.2+, 1.21.
 - \~20 building blocks
 
 = Construction steps
-+ Build a staircase of height, using your building blocks.
++ Build a staircase of height 5 using your building blocks.
   #image("assets/1.png")
 + Place a bed at the top of the staircase.
   #image("assets/2.png")
