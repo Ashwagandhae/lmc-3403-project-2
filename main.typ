@@ -27,3 +27,4 @@ My redesign uses text on the website to address the artifact's reliance on only 
 My redesign seamlessly integrates the notes in the video's description with the rest of the website to ensure that users don't miss crucial information. I placed each unique piece of information from the description in a matching section of the website with headings equally prominent to those of the instructions, reducing the chance that users miss them. Specifically, I added a _Frequently Asked Questions_ section and a _Version Compatibility_ section that included all the details from the description. By putting these pieces of information in positions as prominent as the position of the main construction steps, I prevent users from accidentally not reading them and making mistakes.
 #pagebreak()
 = Redesigned Artifact
+Link: https://ashwagandhae.github.io/lmc-3403-project-2/
